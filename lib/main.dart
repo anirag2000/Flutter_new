@@ -4,7 +4,7 @@ import 'package:new_app/welcome.dart';
 
 void main() {
   runApp(new MaterialApp(
-    title: "Welcome App by Raghavendra",
+    title: "Welcome App by Anirudh",
     home: new Welcome(),
   ));
 }
